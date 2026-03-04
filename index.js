@@ -1,4 +1,3 @@
-// index.js
 const { Client, GatewayIntentBits, Partials, Colors, ActionRowBuilder, ButtonBuilder, ButtonStyle, EmbedBuilder } = require('discord.js');
 const dotenv = require('dotenv');
 const chalk = require('chalk');
